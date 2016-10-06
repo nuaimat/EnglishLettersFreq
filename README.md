@@ -9,4 +9,4 @@ Tested and running on Cloudera CDH v 5.8.0
 
 
 Sample output:
-[[https://docs.google.com/spreadsheets/d/1TGAn7JMOv0cJzTEXJ0gc9dt1j2NtzSe_Ar6knbSFL08/edit?usp=sharing][Google sheets]]
+https://docs.google.com/spreadsheets/d/1TGAn7JMOv0cJzTEXJ0gc9dt1j2NtzSe_Ar6knbSFL08/edit?usp=sharing
